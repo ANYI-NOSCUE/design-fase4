@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    background:  #43C7F4
+}
+.git-logo {
+    border-radius: 15px;
+    
+
+}
+.menu ul{
+padding: 20px;
+background-color: #F0B429;
+text-decoration: none;
+display: flex;
+justify-content: space-between;
+}
+
+.menu ul a {
+    font-family: sans-serif;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.menu ul a:hover {
+    background: #EF4723;
+    color: white;
+}
+.colums{
+    text-indent: 40px;
+    font-size: 20px;
+    
+}
+.inicio{
+    font-size: 30px;
+    text-indent: 40px;
+}
+.bienvenido{
+    color: blue;
+}
+
+.body-container {
+    display: flex;
+}
+
+.columns {
+    width:50%;
+    margin: 25px;
+}
+
+.media-container {
+    width:40%;
+    padding: 10px;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-start;
+    padding: 1.5em;
+    background:  #005883
+}
+
+.footer-text {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 25px;
+}
+
+.conceptos-uno-contenido {
+    
+}
+
+.img-autor {
+    width: 240px;
+}
+
+    
+
+
+
+
+
+    
+
+
+
